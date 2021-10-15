@@ -9,9 +9,9 @@
 ### Projects:
 Some of the personal projects that I have worked on. The main goal for most of them was to get used with some technology:
 
-- [Vinteres](https://github.com/vinteres) - Angular 10, Node.js, Postgres, AWS (S3 & Recognition)
-- [Simple chat app](https://github.com/no0n3/chat-app) - React + TypeScript, Go, Postgres
-- [Twoter](https://github.com/twoter) - Angular 5, Java + Spring, Postgres
+- [Vinteres](https://github.com/vinteres) - Angular 10, Node.js, SQL, Postgres, AWS (S3 & Recognition)
+- [Simple chat app](https://github.com/no0n3/chat-app) - React + TypeScript, Go, SQL, Postgres, RabbitMQ
+- [Twoter](https://github.com/twoter) - Angular 5, Java + Spring, SQL, Postgres
 
 ### Tools and languages:
 
