@@ -1,10 +1,10 @@
 ### Hi, I'm Velizar Ivanov :wave:
 
 - Software developer with several years of experience
-- I'm mainly a backend dev with experience using Node.js, Go and Ruby
-- Recently I've found an interest with frontend technologies like Angular(2+) and React (always TypeScript)
-- When I have time I usually try to learn some new technology
-- Learning more about full stack development
+- I'm mainly a backend dev with experience using Node.js (+ TypeScript) & Ruby
+- Experienced with frontend technologies like React (+ TypeScript) and Angular
+- When I have some spare time I usually read or play with some new technology
+- I've created several apps from scratch utilizing the whole stack - usually with Node.js, React/Angular and Postgres
 
 ### Projects:
 Some of the personal projects that I have worked on. The main goal for most of them was to get used with some technology:
@@ -23,8 +23,8 @@ Some of the personal projects that I have worked on. The main goal for most of t
   <img alt="node.js" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" />
   <!-- <img alt="golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png"/> -->
   <img alt="sql" width="30px" src="https://img.icons8.com/color/48/000000/sql.png" title="SQL - Structured Query Language" />
-  <img alt="angular" width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular 2+" />
   <img alt="react" width="30px" src="https://img.icons8.com/color/240/000000/react-native.png" title="React" />
+  <img alt="angular" width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular 2+" />
   <img alt="ubuntu" width="30px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" title="Linux - Ubuntu" />
   <img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png" title="Git" />
 </code>
