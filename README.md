@@ -10,7 +10,7 @@
 Some of the personal projects that I have worked on. The main goal for most of them was to get used with some technology:
 
 - [Vinteres](https://github.com/vinteres) - Angular 10, Node.js, SQL, Postgres, AWS (S3 & Recognition)
-- [Simple chat app](https://github.com/no0n3/chat-app) - React + TypeScript, Go, SQL, Postgres, RabbitMQ
+- [Simple distributed chat app](https://github.com/no0n3/chat-app) - React + TypeScript, Go, SQL, Postgres, RabbitMQ - backend has multiple nodes (server instances)
 - [Simple video posting app](https://github.com/no0n3/VideoPostingApp) - React + TypeScript, Redux, Firebase
 - [Twoter](https://github.com/twoter) - Angular 5, Java + Spring, SQL, Postgres
 
