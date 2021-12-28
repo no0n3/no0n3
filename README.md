@@ -14,7 +14,7 @@ Some of the personal projects that I have worked on. The main goal for most of t
 - [Simple video posting app](https://github.com/no0n3/VideoPostingApp) - React + TypeScript, Redux, Firebase
 - [Twoter](https://github.com/twoter) - Angular 5, Java + Spring, SQL, Postgres
 
-### Tools and languages:
+### Main tools and languages:
 
 <code>
   <img alt="visual studio code" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" title="Visual Studio Code" />
