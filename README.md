@@ -7,7 +7,7 @@
 - I've created several apps from scratch utilizing the whole stack - usually with Node.js, React/Angular and Postgres
 
 ### Projects:
-Some of the personal projects that I have worked on. The main goal for most of them was to get used with some technology:
+Some of the projects that I have worked on:
 
 - [Vinteres](https://github.com/vinteres) - Angular 10, Node.js, SQL, Postgres, AWS (S3 & Recognition)
 - [Simple distributed chat app](https://github.com/no0n3/chat-app) - React + TypeScript, Go, SQL, Postgres, RabbitMQ - backend has multiple nodes (server instances)
